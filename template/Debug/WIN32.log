@@ -1,0 +1,31 @@
+﻿  AbortDelay.c
+  BlockQ.c
+  blocktim.c
+  countsem.c
+  death.c
+  dynamic.c
+  EventGroupsDemo.c
+  flop.c
+  GenQTest.c
+  integer.c
+  IntSemTest.c
+  MessageBufferAMP.c
+  PollQ.c
+  QPeek.c
+  QueueOverwrite.c
+  QueueSet.c
+  QueueSetPolling.c
+  recmutex.c
+  semtest.c
+  StaticAllocation.c
+  Generating Code...
+  Compiling...
+  MessageBufferDemo.c
+  StreamBufferDemo.c
+  StreamBufferInterrupt.c
+  TaskNotify.c
+  TaskNotifyArray.c
+  timerdemo.c
+  Run-time-stats-utils.c
+  Generating Code...
+  WIN32.vcxproj -> C:\Users\taing\OneDrive\Máy tính\FreeRTOSv202107.00\FreeRTOSv202107.00\FreeRTOS\Lab-FreeRTOS-CO3054-\template\Debug\RTOSDemo.exe

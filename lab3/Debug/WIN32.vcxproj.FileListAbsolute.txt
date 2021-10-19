@@ -1,0 +1,2 @@
+C:\Users\taing\OneDrive\Máy tính\FreeRTOSv202107.00\FreeRTOSv202107.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
+C:\Users\taing\OneDrive\Máy tính\FreeRTOSv202107.00\FreeRTOSv202107.00\FreeRTOS\Lab-FreeRTOS-CO3054-\template\Debug\RTOSDemo.exe
